@@ -38,3 +38,6 @@ $ cp ./lab.rb ~/some/directory/on/my/PATH/lab
 ```
 
 Donezo. Let your fingers rejoice!
+
+### Compatibility
+Only works on mac OS X -- currently tested on El Capitan
