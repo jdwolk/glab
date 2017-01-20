@@ -32,6 +32,7 @@ $ lab browse
 Since I'm too lazy to turn this into a gem at the moment, you'll have to do the hard work yourself:
 
 ```sh
+$ gem install git
 $ git clone git@github.com:jdwolk/glab.git
 $ cd glab
 $ cp ./lab.rb ~/some/directory/on/my/PATH/lab
